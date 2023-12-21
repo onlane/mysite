@@ -189,7 +189,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       #  主页显示的网站标题 (支持 HTML 格式)
       title = "宇宙星星档案馆&#10024"
       # 主页显示的网站副标题 (允许 HTML 格式)
-      subtitle = "<p>欢迎光临～</p>投稿相关等使用手册请见分类-开发日志"
+      subtitle = "欢迎光临～<br><b><a href=./档案馆使用手册/>戳我戳我 ❤️‍🔥</a></b>"
       # 是否为副标题显示打字机动画
       typeit = true
       # 是否显示社交账号
