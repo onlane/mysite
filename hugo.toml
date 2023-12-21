@@ -187,9 +187,9 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       # 主页显示头像的 URL
       avatarURL = "/logo2.png"
       #  主页显示的网站标题 (支持 HTML 格式)
-      title = "宇宙星星档案馆"
+      title = "宇宙星星档案馆&#10024"
       # 主页显示的网站副标题 (允许 HTML 格式)
-      subtitle = "<p>欢迎光临～</p>投稿请点击下方邮件图标，或者至邮puppy_road@163.com"
+      subtitle = "<p>欢迎光临～</p>投稿相关等使用手册请见分类-开发日志"
       # 是否为副标题显示打字机动画
       typeit = true
       # 是否显示社交账号
@@ -208,6 +208,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
   # 作者的社交信息设置
   [params.social]
    Email = "puppy_road@163.com"
+   Bilibili = "667536547?spm_id_from=333.337.0.0"
 
   #  文章页面全局配置
   [params.page]
